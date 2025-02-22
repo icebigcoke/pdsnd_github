@@ -11,6 +11,9 @@ This project is using python to understand U.S bikesharedata. calculate statisti
 
 ### Files used
 bikeshare.py
+washington.csv
+new_york_city.csv
+chicago.csv
 
 ### Credits
 https://www.udacity.com/
