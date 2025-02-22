@@ -7,7 +7,7 @@
 Bikeshare Data Exploration 
 
 ### Description
-This project is using python to understand U.S bikesharedata. calculate statistics and user could choose filter to analyze data.
+This project is using python to understand U.S bikesharedata. calculate statistics and user could choose filter(city) to analyze data.
 
 ### Files used
 bikeshare.py
