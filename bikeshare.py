@@ -1,4 +1,4 @@
-import time
+gitimport time
 import pandas as pd
 import numpy as np
 
@@ -209,7 +209,7 @@ def display_data(df):
     if start_index >= total_rows:
         print("All data has been displayed.")
        
-
+#This main function will generate statistic results
 def main():
     while True:
         city, month, day = get_filters()
